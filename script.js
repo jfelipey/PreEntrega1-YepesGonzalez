@@ -67,7 +67,7 @@ do {
         console.log("Usted compró " + cantTor + " Torta(s) de chocolate");
         console.log("Usted compró " + cantProd + " Productos de nuestra repostería");
         console.log("Total a pagar: " + (pago(cantAlf, cantChe, cantPos, cantTor))+" USD");
-        alert("Su total a pagar fue: " + (pago(cantAlf, cantChe, cantPos, cantTor)) +" USD" + " y fue pagado exitósamente. Grácias por su compra");
+        alert("Su total a pagar fue: " + (pago(cantAlf, cantChe, cantPos, cantTor)) +" USD" + " y fue pagado exitosamente. Gracias por su compra");
         vaciar();
     }
     // OPCIONES DE COMPRA PRODUCTOS
